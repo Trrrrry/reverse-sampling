@@ -1,4 +1,5 @@
 # reverse-sampling
+
 使用逆变换采样，从均匀分布采样后变换到目标条件分布
 $$
 \left\{\begin{array}{cc}
