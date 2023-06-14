@@ -27,3 +27,4 @@ if __name__ == '__name__':
       trunc_time.append(t2-t1)
   print(reject_time,fun_time,trunc_time,sep='\n')
   print(np.mean(z1),np.mean(z2),np.mean(z3))
+  print('over')
